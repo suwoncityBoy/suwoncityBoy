@@ -1,5 +1,5 @@
 ## hi :D 👋
-my name is Lee hakkyoung and I’m currently learning web Frontend skills xD
+my name is Lee hakkyoung and I’m currently learning web Frontend/ skills xD
 
 ## ⚡Tech Stack
 
