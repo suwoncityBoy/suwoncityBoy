@@ -20,7 +20,7 @@
   
 ## 🌱 Experience 
 
-- 스파르타코딩클럽 내일배움캠프 4기 ( 2022.10 ~ ) 
+- spartacoding club 내일배움캠프 4th ( 2022.10 ~ ) 
 <br />
 
 
