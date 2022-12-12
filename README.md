@@ -1,5 +1,6 @@
-## hi :D 👋
-my name is Lee hakkyoung and I’m currently learning web Frontend skills xD
+## Introduction
+- 이학경 Hakkyoung Lee
+- Front-end Developer
 
 <br />
 
