@@ -1,4 +1,4 @@
-## Introduction
+## Introduce
 - 이학경 Hakkyoung Lee
 - Front-end Developer
 
