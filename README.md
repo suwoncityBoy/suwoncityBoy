@@ -28,7 +28,7 @@
   
 ### 🌱 Experience
 
-- spartacoding club 내일배움캠프 4th ( 2022.10 ~ 2023.03)
+- spartacoding club 내일배움캠프 4th ( 2022.11 ~ 2023.03)
   <br />
   <br />
   
