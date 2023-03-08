@@ -3,7 +3,7 @@
 
 <br />
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 
 <br />
 
-## 📫Contact
+### 📫Contact
 
 <p>
   <a href="https://velog.io/@suwoncityboy" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
@@ -26,8 +26,10 @@
 
 <br/>
   
-## 🌱 Experience
+### 🌱 Experience
 
 - spartacoding club 내일배움캠프 4th ( 2022.10 ~ 2022.03)
   <br />
+  <br />
+  
 
