@@ -15,18 +15,17 @@
 ### 🛠 Tech Stack 🛠
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![C Sharp](https://img.shields.io/badge/csharp-8DD6F9.svg?style=flat-square&logo=CSharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)  
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)  
-![Java](https://img.shields.io/badge/java-4B4B77.svg?style=flat-square&logo=java&logoColor=white)
-![C Sharp](https://img.shields.io/badge/csharp-8DD6F9.svg?style=flat-square&logo=CSharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=white)
 
 
 <br/>
