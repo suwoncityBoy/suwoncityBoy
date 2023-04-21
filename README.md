@@ -1,28 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=SuwoncityBoy&fontAlign=70&fontAlignY=40&animation=twinkling)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwoncityBoy&hide=python&theme=tokyonight)
+<div align="center">
 
-<br />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=twinkling)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwoncityBoy&hide=python&theme=tokyonight) -->
 
-### ⚡ Tech Stack
 
-<img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React native-000?style=for-the-badge&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a>
-
-<br />
-
-### 📫 Contact
+### ✨ Contact ✨ 
 
 <p>
-  <a href="https://velog.io/@suwoncityboy" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+  <a href="https://velog.io/@suwoncityboy"><img src="https://img.shields.io/badge/suwoncityboy.log-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@suwoncityboy"/></a>
   <a href="mailto:dlgkrrud970930@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dlgkrrud970930@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+
+### 🛠 Tech Stack 🛠
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)  
+![Java](https://img.shields.io/badge/java-4B4B77.svg?style=flat-square&logo=java&logoColor=white)
+![C Sharp](https://img.shields.io/badge/csharp-8DD6F9.svg?style=flat-square&logo=CSharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=white)
+
+
 <br/>
-  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=twinkling&section=footer)
+
+</div>
