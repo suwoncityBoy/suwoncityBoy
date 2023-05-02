@@ -21,8 +21,6 @@
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)  
-![Java](https://img.shields.io/badge/java-0B6138.svg?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.net-8DD6F9.svg?style=flat-square&logo=.Net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
