@@ -21,10 +21,9 @@
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white")
 ![C Sharp](https://img.shields.io/badge/csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.net-8DD6F9.svg?style=flat-square&logo=.Net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)
 
 
