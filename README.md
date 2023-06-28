@@ -4,28 +4,36 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwoncityBoy&hide=python&theme=tokyonight) -->
 
 
-### ✨ Contact ✨ 
-
+### 📫 Contact 
 <p>
   <a href="https://velog.io/@suwoncityboy"><img src="https://img.shields.io/badge/suwoncityboy.log-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@suwoncityboy"/></a>
   <a href="mailto:dlgkrrud970930@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dlgkrrud970930@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
-### 🛠 Tech Stack 🛠
+### 🛠 Techs that I've used mainly 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)  
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
-![React Native](https://img.shields.io/badge/reactnative-000.svg?style=flat-square&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)  
+
+
+### 📌 Techs that I've used at least once 
+![jquery](https://img.shields.io/badge/jquery-0769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/reactnative-000.svg?style=flat-square&logo=React&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/reactQuery-FF4154.svg?style=flat-square&logo=ReactQuery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white")
-![C Sharp](https://img.shields.io/badge/csharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
+![C Sharp](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=Csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.net-8DD6F9.svg?style=flat-square&logo=.Net&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)
-
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 
 <br/>
 
