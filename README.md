@@ -25,7 +25,7 @@
 ![React Native](https://img.shields.io/badge/reactnative-000.svg?style=flat-square&logo=React&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white")
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=Csharp&logoColor=white)
+![C Sharp](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=Csharp&logoColor=white)  
 ![.Net](https://img.shields.io/badge/.net-8DD6F9.svg?style=flat-square&logo=.Net&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)  
