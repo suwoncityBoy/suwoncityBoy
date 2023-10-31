@@ -13,10 +13,12 @@
 
 ### 🛠 Techs that I've used mainly 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white) 
-![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=flat-square&logo=Next.js&logoColor=white)   
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 
 
 ### 📌 Techs that I've used at least once 
@@ -27,8 +29,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/Csharp-512BD4.svg?style=flat-square&logo=Csharp&logoColor=white)  
 ![.Net](https://img.shields.io/badge/.net-8DD6F9.svg?style=flat-square&logo=.Net&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 <br/>
 
