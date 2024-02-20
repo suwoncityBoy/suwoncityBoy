@@ -16,16 +16,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)  
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white) 
 ![React Native](https://img.shields.io/badge/reactnative-000.svg?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=flat-square&logo=Next.js&logoColor=white)   
-![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=flat-square&logo=webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 
 ### 🛠 BE Techs  
+![nodejs](https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![supabase](https://img.shields.io/badge/supabase-3FCF8E.svg?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)  
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 <br/>
 
