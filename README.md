@@ -13,9 +13,10 @@
 
 ### 🛠 Main Techs 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)  
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=React&logoColor=white) 
-![React Native](https://img.shields.io/badge/reactnative-000.svg?style=flat-square&logo=React&logoColor=white)  
+![React Native](https://img.shields.io/badge/reactnative-000.svg?style=flat-square&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000.svg?style=flat-square&logo=Next.js&logoColor=white)  
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 ![supabase](https://img.shields.io/badge/supabase-3FCF8E.svg?style=flat-square&logo=supabase&logoColor=white)
 
